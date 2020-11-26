@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "license": "MIT",
     "autoUpdate": true,
-    "checkUpdateUrl": "",
+    "checkUpdateUrl": "https://raw.githubusercontent.com/JUGADOR123/Better-Canted-Sights/main/updater.json",
     "src": {
         "src/canted.js":"CacheModLoad"
     }
