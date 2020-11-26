@@ -1,0 +1,11 @@
+{
+    "name": "BetterCanted",
+    "author": "Jugador123",
+    "version": "1.0.0",
+    "license": "MIT",
+    "autoUpdate": true,
+    "checkUpdateUrl": "",
+    "src": {
+        "src/canted.js":"CacheModLoad"
+    }
+}
